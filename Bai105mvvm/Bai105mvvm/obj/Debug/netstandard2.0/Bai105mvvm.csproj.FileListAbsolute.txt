@@ -1,0 +1,15 @@
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.csprojAssemblyReference.cache
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Views\ContactDetailPage.xaml.g.cs
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Views\ContactsPage.xaml.g.cs
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.AssemblyInfoInputs.cache
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.AssemblyInfo.cs
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.csproj.CoreCompileInputs.cache
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.dll
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\ref\Bai105mvvm.dll
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\Bai105mvvm.pdb
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\bin\Debug\netstandard2.0\Bai105mvvm.deps.json
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\bin\Debug\netstandard2.0\Bai105mvvm.dll
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\bin\Debug\netstandard2.0\ref\Bai105mvvm.dll
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\bin\Debug\netstandard2.0\Bai105mvvm.pdb
+C:\Users\84398\source\repos\Bai105mvvm\Bai105mvvm\obj\Debug\netstandard2.0\XamlC.stamp
